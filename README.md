@@ -2,6 +2,31 @@
 
 <h1 align="center">Hi 👋, I'm Dario Rodriguez</h1>
 <h3 align="center">A passionate developer from Argentina</h3>
+<h2> Hi, I'm Juli! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Full Stack Developer at <a href="https://www.soyhenry.com">Soy Henry Bootcamp</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+</em></p>
+
+
+[![Linkedin: darioemmanuelrodriguez](https://img.shields.io/badge/-gonzalezjulianamicaela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dar%C3%ADo-emmanuel-rodr%C3%ADguez-99a178126/)](https://www.linkedin.com/in/dar%C3%ADo-emmanuel-rodr%C3%ADguez-99a178126/)
+[![GitHub julianactrl](https://img.shields.io/github/followers/julianactrl?label=follow&style=social)](https://github.com/Dariorod1)
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const Dario = {
+  
+  code: [Javascript, HTML, CSS, Node, SQL, Postgres, GIT, Github],
+  tools: [React, Redux, Express, Bootstrap, Sequilize, Sass],
+  currentlyLearning: {
+              Language: "C#",
+              Paradigms: "POO & Software design pattern"
+           },
+  currentlyWorkingOn: "yoAgronomoApp with React-redux, Express and Postgres"
+}
+```
+---
 
 
 <h3 align="left">Languages and Tools:</h3>
