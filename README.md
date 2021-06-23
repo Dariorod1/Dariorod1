@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Dario Rodriguez</h1>
 <h3 align="center">A passionate developer from Argentina</h3>
-<h2> Hi, I'm Juli! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
 <img align='right' src="https://media3.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="230">
 <p><em>Full Stack Developer at <a href="https://www.soyhenry.com">Soy Henry Bootcamp</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
@@ -12,7 +12,7 @@
 [![GitHub julianactrl](https://img.shields.io/github/followers/julianactrl?label=follow&style=social)](https://github.com/Dariorod1)
 
 
-### <img src="https://media3.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50"> A little more about me...  
+A little more about me...  
 
 ```javascript
 const Dario = {
