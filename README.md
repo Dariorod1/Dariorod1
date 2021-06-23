@@ -8,7 +8,7 @@
 </em></p>
 
 
-[![Linkedin: darioemmanuelrodriguez](https://img.shields.io/badge/-Dario Rodriguez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dar%C3%ADo-emmanuel-rodr%C3%ADguez-99a178126/)](https://www.linkedin.com/in/dar%C3%ADo-emmanuel-rodr%C3%ADguez-99a178126/)
+[![Linkedin: darioemmanuelrodriguez](https://img.shields.io/badge/-DarioRodriguez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dar%C3%ADo-emmanuel-rodr%C3%ADguez-99a178126/)](https://www.linkedin.com/in/dar%C3%ADo-emmanuel-rodr%C3%ADguez-99a178126/)
 [![GitHub julianactrl](https://img.shields.io/github/followers/julianactrl?label=follow&style=social)](https://github.com/Dariorod1)
 
 
