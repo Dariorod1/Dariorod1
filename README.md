@@ -4,7 +4,7 @@
 <h3 align="center">A passionate developer from Argentina</h3>
 
 <img align='right' src="https://media3.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="230">
-<p><em>Full Stack Developer at <a href="https://www.soyhenry.com">Soy Henry Bootcamp</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+<p><em>Full Stack Developer at <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
 
